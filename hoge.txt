@@ -1,4 +1,4 @@
-File is changed by shinobu
+edited by git bash on local repository.
 File is rechanged by shinobu
 File is 3rd changed.
 4回目のファイル変更をしました。
